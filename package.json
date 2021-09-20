@@ -6,7 +6,7 @@
     "build": "react-scripts build"
   },
   "devDependencies": {
-    "browserslist": "^4.10.0",
+    "browserslist": "^4.16.5",
     "react-scripts": "^3.4.0"
   },
   "dependencies": {
